@@ -13,7 +13,9 @@ export default function Home() {
         <Link href="/julian">
           <button className={styles.button}>Ir a la página de Julian</button>
         </Link>
-        <Button />
+         <Link href="/juanCa">
+          <button className={styles.button}>Ir a la página de juanCa</button>
+          </Link>
          <Link href="/karen">
           <button className={styles.button}>Ir a la página de Karen</button>
           </Link>
